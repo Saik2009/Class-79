@@ -1,0 +1,12 @@
+#submit_button,#nos_1,#nos_2,#nos_3,#nos_4{
+    margin-top:10px;
+    margin-bottom: 10px;
+
+    
+}
+
+#sort_button{
+    margin-top:20px;
+    margin-bottom: 20px;
+    display:none;
+}
